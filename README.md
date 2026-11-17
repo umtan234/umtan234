@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/241732154?v=4" alt="Umtan's profile picture" width="150" height="150" style="border-radius: 50%;" />
+</p>
+
 # Hi, I'm Umtan 👋
 
 I'm a developer and tech enthusiast who enjoys building useful software and exploring electronics. I'm learning as I go and sharing projects along the way.
@@ -21,11 +25,13 @@ I'm a developer and tech enthusiast who enjoys building useful software and expl
 
 ## Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub- umtan234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umtan234)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@your_channel)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your.profile)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@your_username)
+[![GitHub](https://img.shields.io/badge/GitHub-umtan234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umtan234)
 
-> Replace the YouTube and TikTok links above with your profile URLs. You can add LinkedIn, a portfolio, or email here too.
+> Replace the sample Telegram, YouTube, Facebook, and TikTok URLs above with your profile links.
 
 ## GitHub Stats
 <p align="center">
