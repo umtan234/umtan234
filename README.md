@@ -4,6 +4,8 @@
 
 # Hi, I'm Umtan 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=umtan234&label=Profile%20views&color=0e75b6&style=flat)
+
 I'm a developer and tech enthusiast who enjoys building useful software and exploring electronics. I'm learning as I go and sharing projects along the way.
 
 ## About Me
@@ -13,9 +15,7 @@ I'm a developer and tech enthusiast who enjoys building useful software and expl
 - 🤝 Open to collaboration
 
 ## Tech & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
