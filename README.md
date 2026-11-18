@@ -2,38 +2,45 @@
   <img src="https://avatars.githubusercontent.com/u/241732154?v=4" alt="Umtan's profile picture" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
-# Hi, I'm Umtan 👋
+<h1 align="center">Hi, I'm Umtan 👋</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=umtan234&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umtan234&label=Profile%20views&color=32CD32&style=flat" alt="Profile views" />
+</p>
 
-I'm a developer and tech enthusiast who enjoys building useful software and exploring electronics. I'm learning as I go and sharing projects along the way.
+<p align="center">
+  Developer and tech enthusiast interested in building useful software and exploring electronics.
+</p>
 
 ## About Me
+
 - 💻 Interested in software development and practical projects
 - 🔌 Exploring ESP32, Espressif, and Bruce firmware
 - 🌱 Always learning and improving
 - 🤝 Open to collaboration
 
 ## Tech & Tools
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Bruce Firmware](https://img.shields.io/badge/Bruce-Firmware-222222?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![C++](https://img.shields.io/badge/C%2B%2B-32CD32?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-32CD32?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-32CD32?style=for-the-badge&logo=python&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-32CD32?style=for-the-badge&logo=espressif&logoColor=white)
+![Espressif](https://img.shields.io/badge/Espressif-32CD32?style=for-the-badge&logo=espressif&logoColor=white)
+![Bruce Firmware](https://img.shields.io/badge/Bruce-Firmware-32CD32?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-32CD32?style=for-the-badge&logo=git&logoColor=white)
 
 ## Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@your_channel)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your.profile)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@your_username)
-[![GitHub](https://img.shields.io/badge/GitHub-umtan234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umtan234)
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-32CD32?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-32CD32?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@your_channel)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-32CD32?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your.profile)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-32CD32?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@your_username)
+[![GitHub](https://img.shields.io/badge/GitHub-umtan234-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umtan234)
 
-> Replace the sample Telegram, YouTube, Facebook, and TikTok URLs above with your profile links.
+> Replace the sample Telegram, YouTube, Facebook, and TikTok URLs with your profile links.
 
 ## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umtan234&show_icons=true&theme=default" alt="Umtan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umtan234&show_icons=true&bg_color=00000000&title_color=32CD32&icon_color=32CD32&text_color=ffffff" alt="Umtan's GitHub Stats" />
 </p>
