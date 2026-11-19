@@ -1,25 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320" role="img" aria-label="Large red Soviet-inspired artistic banner">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320" role="img" aria-label="Large red Soviet-inspired artistic banner with Umtan's profile picture">
   <defs>
     <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#de0000"/>
       <stop offset="1" stop-color="#9d0000"/>
     </linearGradient>
+    <clipPath id="avatarClip">
+      <circle cx="700" cy="150" r="86"/>
+    </clipPath>
   </defs>
 
   <rect width="1400" height="320" rx="18" fill="url(#red)"/>
-  <circle cx="700" cy="145" r="112" fill="none" stroke="#ffd84d" stroke-width="8" opacity="0.95"/>
+  <circle cx="700" cy="150" r="92" fill="#ffd84d"/>
+  <circle cx="700" cy="150" r="86" fill="#3b0a0a"/>
 
-  <!-- hammer and sickle, inspired by classic emblem geometry -->
-  <g fill="#ffd84d" transform="translate(100 23) scale(1.28)">
-    <path d="M531 65h112v20H531z"/>
-    <path d="M620 54h52v18h-52z"/>
-    <path d="M641 69h17v54h-17z"/>
-    <path d="M560 72h18v88h-18z"/>
-    <path d="M569 138c-31 34-13 68 21 68 23 0 40-12 51-31l-16-10c-8 13-18 20-31 20-20 0-28-17-11-38z"/>
-  </g>
-
-  <!-- gold star -->
-  <path d="M700 18l16 33 37 5-27 26 6 38-32-17-32 17 6-38-27-26 37-5z" fill="#ffd84d"/>
+  <!-- Umtan's GitHub profile picture -->
+  <image href="https://github.com/umtan234.png" x="614" y="64" width="172" height="172" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
 
   <!-- decorative wheat ears -->
   <g fill="#ffd84d" opacity="0.95">

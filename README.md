@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./soviet-art.svg" width="100%" alt="Red Soviet-inspired artistic banner" />
+  <img src="./soviet-art.svg" width="100%" alt="Red Soviet-inspired banner with Umtan's profile picture" />
 
   # Hi, I'm Umtan 👋
 
