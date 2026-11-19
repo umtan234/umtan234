@@ -1,15 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Red Soviet-inspired artistic banner">
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="320" viewBox="0 0 1400 320" role="img" aria-label="Large red Soviet-inspired artistic banner">
   <defs>
     <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#de0000"/>
       <stop offset="1" stop-color="#9d0000"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="260" rx="18" fill="url(#red)"/>
-  <circle cx="600" cy="122" r="88" fill="none" stroke="#ffd84d" stroke-width="6" opacity="0.95"/>
+
+  <rect width="1400" height="320" rx="18" fill="url(#red)"/>
+  <circle cx="700" cy="145" r="112" fill="none" stroke="#ffd84d" stroke-width="8" opacity="0.95"/>
 
   <!-- hammer and sickle, inspired by classic emblem geometry -->
-  <g fill="#ffd84d">
+  <g fill="#ffd84d" transform="translate(100 23) scale(1.28)">
     <path d="M531 65h112v20H531z"/>
     <path d="M620 54h52v18h-52z"/>
     <path d="M641 69h17v54h-17z"/>
@@ -18,13 +19,13 @@
   </g>
 
   <!-- gold star -->
-  <path d="M600 12l13 27 30 4-22 21 5 30-26-14-26 14 5-30-22-21 30-4z" fill="#ffd84d"/>
+  <path d="M700 18l16 33 37 5-27 26 6 38-32-17-32 17 6-38-27-26 37-5z" fill="#ffd84d"/>
 
   <!-- decorative wheat ears -->
   <g fill="#ffd84d" opacity="0.95">
-    <path d="M470 190c-34-25-46-58-42-98l10 3c-2 36 9 62 38 84z"/>
-    <path d="M730 190c34-25 46-58 42-98l-10 3c2 36-9 62-38 84z"/>
+    <path d="M550 230c-42-30-56-72-51-121l13 4c-3 44 11 76 47 103z"/>
+    <path d="M850 230c42-30 56-72 51-121l-13 4c3 44-11 76-47 103z"/>
   </g>
 
-  <text x="600" y="234" fill="#fff2b3" font-family="Georgia, serif" font-size="22" letter-spacing="8" text-anchor="middle">U M T A N</text>
+  <text x="700" y="290" fill="#fff2b3" font-family="Georgia, serif" font-size="26" letter-spacing="10" text-anchor="middle">U M T A N</text>
 </svg>
