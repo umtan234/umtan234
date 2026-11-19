@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://github.com/umtan234.png?v=3" width="180" height="180" alt="Umtan's GitHub profile picture" />
-
-  <img src="./soviet-art.svg?v=3" width="100%" alt="Umtan profile banner" />
+  <img src="https://github.com/umtan234.png?v=4" width="180" height="180" alt="Umtan's GitHub profile picture" />
 
   # Hi, I'm Umtan 👋
 
