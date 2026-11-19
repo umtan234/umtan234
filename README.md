@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/umtan234.png?v=2" width="180" height="180" alt="Umtan's GitHub profile picture" />
+  <img src="https://github.com/umtan234.png?v=3" width="180" height="180" alt="Umtan's GitHub profile picture" />
 
-  <img src="./soviet-art.svg?v=2" width="100%" alt="Umtan profile banner" />
+  <img src="./soviet-art.svg?v=3" width="100%" alt="Umtan profile banner" />
 
   # Hi, I'm Umtan 👋
 
@@ -25,7 +25,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-377AAB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotdot&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
