@@ -1,89 +1,56 @@
-<p align="center">
-  <img
-    src="https://avatars.githubusercontent.com/u/241732154?v=4"
-    alt="Umtan's Profile Picture"
-    width="130"
-  />
-</p>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/241732154?v=4" width="120" alt="Umtan's profile picture" />
 
-<h1 align="center">Hi, I'm Umtan 👋</h1>
+  # Hi, I'm Umtan 👋
 
-<p align="center">
-  Developer and tech enthusiast interested in software development and electronics.
-</p>
+  **Developer · Embedded systems enthusiast · Lifelong learner**
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=umtan234&label=Profile%20Views&color=32CD32&style=flat"
-    alt="Profile Views"
-  />
-</p>
+  I build practical software and experiment with electronics, ESP32, and firmware.
+
+  <img src="https://komarev.com/ghpvc/?username=umtan234&label=Profile%20views&color=2563EB&style=flat" alt="Profile views" />
+</div>
 
 ---
 
-## About Me
+## About
 
-- 💻 Interested in software development and practical projects
-- 🔌 Exploring ESP32, Espressif, and Bruce Firmware
-- 🌱 Always learning and improving my skills
-- 🤝 Open to collaboration and interesting projects
+- 💻 Interested in software development and useful, hands-on projects
+- 🔌 Exploring ESP32, Espressif tools, and Bruce Firmware
+- 🌱 Continuously learning and improving
+- 🤝 Open to collaboration on interesting projects
 
-## Technologies & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-32CD32?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Node.js-32CD32?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-32CD32?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/ESP32-32CD32?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Espressif-32CD32?style=flat-square&logo=espressif&logoColor=white" alt="Espressif" />
-  <img src="https://img.shields.io/badge/Bruce_Firmware-32CD32?style=flat-square" alt="Bruce Firmware" />
-  <img src="https://img.shields.io/badge/Git-32CD32?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
-## What I Do
-
-I enjoy creating useful software, experimenting with embedded systems, and learning how technology works.
-
-
-- ESP32 and electronics projects
-- Firmware experiments
-- Automation and practical tools
-
-## GitHub
+## Technology
 
 <p>
-  <img
-    src="https://img.shields.io/github/followers/umtan234?style=flat-square&label=Followers&color=32CD32"
-    alt="GitHub Followers"
-  />
-  <img
-    src="https://img.shields.io/github/stars/umtan234?style=flat-square&label=Total%20Stars&color=32CD32"
-    alt="GitHub Stars"
-  />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-[View my repositories on GitHub](https://github.com/umtan234)
+## What I'm into
 
-## Connect With Me
+| Software | Electronics |
+| --- | --- |
+| Automation and practical tools | ESP32 and embedded projects |
+| Learning programming through projects | Firmware experiments |
 
-<a href="https://github.com/umtan234">
-  <img src="https://img.shields.io/badge/GitHub-umtan234-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://t.me/your_username">
-  <img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="https://www.youtube.com/@your_channel">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://www.facebook.com/your.profile">
-  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.tiktok.com/@your_username">
-  <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" />
-</a>
+## GitHub Dashboard
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=umtan234&show_icons=true&hide_border=true&theme=transparent" alt="Umtan's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umtan234&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umtan234&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</p>
+
+## Find me on GitHub
+
+[![GitHub](https://img.shields.io/badge/GitHub-umtan234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/umtan234)
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile!
-</p>
+<div align="center">Thanks for stopping by!</div>
