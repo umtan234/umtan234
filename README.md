@@ -7,6 +7,8 @@
 
   I build practical software and experiment with electronics, ESP32, and firmware.
 
+  <a href="https://github.com/umtan234/Bruce-ESP32-C3/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github" alt="Download Latest Release" /></a>
+
   <img src="https://komarev.com/ghpvc/?username=umtan234&label=Profile%20views&color=2563EB&style=flat" alt="Profile views" />
 </div>
 
